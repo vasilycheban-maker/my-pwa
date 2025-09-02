@@ -1,6 +1,6 @@
 {
-  "name": "Моё приложение",
-  "short_name": "App",
+  "name": "Калькулятор зеркал",
+  "short_name": "Зеркала",
   "start_url": "https://pricedesign.ru/test",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -18,3 +18,4 @@
     }
   ]
 }
+
